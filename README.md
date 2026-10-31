@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal S</h1>
 
 <h3 align="center">
-  Information Technology Student | Aspiring Data & Cloud Professional | Python Learner
+  Information Technology Student | Aspiring AI Engineer of Gen AI | Python Learner
 </h3>
 
 <p align="center">
